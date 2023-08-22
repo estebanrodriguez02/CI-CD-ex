@@ -38,3 +38,7 @@ jobs:
       - name: check dir
         run: |
           ls
+
+      - name: check dir ocultoss
+        run: |
+          ls -a
